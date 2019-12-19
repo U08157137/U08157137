@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main()
+{
+    int myDec ;
+    printf("please input");
+    scanf("%d",&myDec);
+    printf("%x",myDec);
+
+    return 0;
+}
